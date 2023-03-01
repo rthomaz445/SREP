@@ -533,3 +533,4 @@ public class WorkerPayment extends JPanel{
 		return "Worker Payment";
 	}	
 }
+
