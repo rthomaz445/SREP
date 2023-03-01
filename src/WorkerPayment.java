@@ -531,6 +531,5 @@ public class WorkerPayment extends JPanel{
 	@Override
 	public String toString() {
 		return "Worker Payment";
-	}
-		
+	}	
 }
