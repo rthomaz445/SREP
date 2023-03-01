@@ -532,6 +532,5 @@ public class WorkerPayment extends JPanel{
 	public String toString() {
 		return "Worker Payment";
 	}
-	
-	
+		
 }
